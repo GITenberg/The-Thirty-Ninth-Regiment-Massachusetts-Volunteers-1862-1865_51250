@@ -1,0 +1,28 @@
+_repo: The-Thirty-Ninth-Regiment-Massachusetts-Volunteers-1862-1865_51250
+_version: 0.0.1
+alternative_title: The 39th Regiment Massachusetts Volunteers, 1862-1865
+creator:
+  author:
+    agent_name: Roe, Alfred S. (Alfred Seelye)
+    alias: Roe, Alfred Seelye
+    birthdate: 1844
+    deathdate: 1917
+    gutenberg_agent_id: '33105'
+    url: http://www.gutenberg.org/2009/agents/33105
+description: ''
+gutenberg_issued: '2016-02-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '51250'
+  lccn: '14002030'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'United States. Army. Massachusetts Infantry Regiment, 39th (1862-1865)'
+- !lcc 'E456'
+- !lcsh 'United States -- History -- Civil War, 1861-1865 -- Regimental histories'
+- GITenberg
+title: The Thirty-Ninth Regiment Massachusetts Volunteers, 1862-1865
+url: http://www.gutenberg.org/ebooks/51250
