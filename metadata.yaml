@@ -1,6 +1,9 @@
 _repo: The-Thirty-Ninth-Regiment-Massachusetts-Volunteers-1862-1865_51250
-_version: 0.1.0
+_version: 0.2.0
 alternative_title: The 39th Regiment Massachusetts Volunteers, 1862-1865
+covers:
+- cover_type: archival
+  image_path: 51250-h/images/cover.jpg
 creator:
   author:
     agent_name: Roe, Alfred S. (Alfred Seelye)
@@ -10,6 +13,8 @@ creator:
     gutenberg_agent_id: '33105'
     url: http://www.gutenberg.org/2009/agents/33105
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/51250#The-Thirty-Ninth-Regiment-Massachusetts-Volunteers-1862-1865
 gutenberg_issued: '2016-02-19'
 gutenberg_type: Text
 identifiers:
